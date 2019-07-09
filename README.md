@@ -6,3 +6,8 @@ Let's take the case of a robot that moves through the world. As a robot moves th
 sensing and performing a measurement update and
 moving and performing a motion update
 
+How to run:
+
+1. Open Jupyter Notebook in your browser
+2. Open  1D Kalman Filter, solution.ipynb 
+3. Run each block one by one.
