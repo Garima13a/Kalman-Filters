@@ -17,3 +17,7 @@ How to run:
 3. Run each block one by one.
 
 Please refer to my blog to know more: https://medium.com/analytics-vidhya/kalman-filters-a-step-by-step-implementation-guide-in-python-91e7e123b968?sk=530a8c1e099c047cac45cd0f945ce4ab
+
+LinkedIn: https://www.linkedin.com/in/garima-nishad-9b8385134/
+
+Follow me on Twitter: https://twitter.com/garima__nishad
